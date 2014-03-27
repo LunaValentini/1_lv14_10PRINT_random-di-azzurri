@@ -1,5 +1,5 @@
 // This code was modified from 10Print by Casey Reas, for school projects
-//  by Università di San Marino. Non commercial use.
+
 
 import processing.pdf.*;
 import java.util.Calendar;
